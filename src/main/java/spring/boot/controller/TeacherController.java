@@ -89,7 +89,7 @@ public class TeacherController {
 	}
 	
 	
-//	// EXAMPLE INTERFACE............
+//	// EXAMPLE CLASS............
 //	@GetMapping("/getByNameAndAge")
 //	public List<Teacher> getByNameAndAge(@RequestBody Teacher tch){
 //		
@@ -106,7 +106,9 @@ public class TeacherController {
 //		return teacherRepository.findAll(of);
 //				
 //	}
-//	
+
+	
+	
 	
 	
 	
